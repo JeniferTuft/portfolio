@@ -1,5 +1,5 @@
-# portfolio
+# Portfolio
 Hi, I'm Jenifer Tuft and this is my portfolio.
 
-### Website Link
+### Website Link:
 URL: https://jenifertuft.github.io/portfolio/
